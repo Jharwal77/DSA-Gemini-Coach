@@ -1,16 +1,51 @@
-# React + Vite
+# DSA Gemini Coach 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An AI-powered DSA learning platform built using JavaScript and Gemini AI to help users understand data structures and algorithms interactively.
 
-Currently, two official plugins are available:
+## Features ✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* AI-powered DSA explanations
+* Step-by-step problem-solving hints
+* Time complexity discussions
+* Beginner-friendly guidance
+* Covers arrays, linked lists, trees, graphs, recursion, and DP
+* Focuses on logic instead of directly revealing answers
 
-## React Compiler
+## Tech Stack 🛠️
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* JavaScript
+* Gemini AI API
+* HTML5
+* CSS3
 
-## Expanding the ESLint configuration
+## Purpose 🎯
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project was created to improve DSA learning through conversational AI and guided problem-solving.
+
+## Installation ⚙️
+
+```bash
+git clone https://github.com/yourusername/dsa-gemini-coach.git
+cd dsa-gemini-coach
+```
+
+## Run Locally 💻
+
+Open `index.html` in your browser
+OR use Live Server in VS Code.
+
+## Future Improvements 🚀
+
+* User authentication
+* Chat history
+* Dark mode
+* Code editor integration
+* Multi-language support
+
+## Author 👨‍💻
+
+Rahul Meena
+
+## License 📄
+
+This project is open source and available under the MIT License.
