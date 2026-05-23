@@ -25,7 +25,7 @@ This project was created to improve DSA learning through conversational AI and g
 ## Installation ⚙️
 
 ```bash
-git clone https://github.com/yourusername/dsa-gemini-coach.git
+git clone https://github.com/Jharwal77/dsa-gemini-coach.git
 cd dsa-gemini-coach
 ```
 
